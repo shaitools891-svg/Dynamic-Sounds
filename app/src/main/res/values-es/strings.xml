@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Sonidos Dinámicos</string>
+    <string name="cover">portada</string>
+    <string name="pause_play">pausa/reproducir</string>
+    <string name="next">siguiente</string>
+    <string name="back">atrás</string>
+    <string name="welcome">Bienvenido</string>
+    <string name="to_get_started_the_app_needs_some_required_permissions">Para comenzar, la aplicación necesita algunos permisos requeridos</string>
+    <string name="draw_over_other_apps">Dibujar sobre otras aplicaciones</string>
+    <string name="notification_access">Acceso a Notificaciones</string>
+    <string name="record_audio_from_apps">Grabar audio de aplicaciones</string>
+    <string name="enable_smart_edge">Habilitar Smart Edge</string>
+    <string name="enable_hardware_acceleration">Habilitar Aceleración de Hardware</string>
+    <string name="access_description">Activar para permitir que la aplicación dibuje sobre la barra de estado</string>
+    <string name="x_offset">Desplazamiento X</string>
+    <string name="y_offset">Desplazamiento Y</string>
+    <string name="height_of_overlay_when_shrinked">Altura de la superposición cuando está encogida</string>
+    <string name="minimum_width_of_overlay_when_closed">Ancho mínimo de la superposición cuando está cerrada</string>
+    <string name="space_between_icons_when_overlay_is_shrinked">Espacio entre iconos cuando la superposición está encogida</string>
+    <string name="reset">Restablecer</string>
+    <string name="select_applications_to_allow">Seleccionar aplicaciones para permitir</string>
+    <string name="all">todo</string>
+    <string name="needed_to_show_notifications_and_media_sessions">Necesario para mostrar notificaciones y sesiones de medios</string>
+    <string name="needed_to_show_song_visualizer_never_to_be_used_for_recording_mic_audio">Necesario para mostrar el visualizador de canciones. Nunca se usa para grabar audio del micrófono</string>
+    <string name="accessibility_service_description">Requerido para seleccionar aplicaciones específicas para sonidos de notificación personalizados. Este servicio no recopila ni monitorea sus datos personales.</string>
+    <string name="select_color_to_apply_to_background">Seleccionar color para aplicar al fondo</string>
+    <string name="color_hex">Color (hex)</string>
+    <string name="apply">Aplicar</string>
+</resources>

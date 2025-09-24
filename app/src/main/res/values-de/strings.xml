@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Dynamische Sounds</string>
+    <string name="cover">cover</string>
+    <string name="pause_play">pause/wiedergabe</string>
+    <string name="next">weiter</string>
+    <string name="back">zurück</string>
+    <string name="welcome">Willkommen</string>
+    <string name="to_get_started_the_app_needs_some_required_permissions">Um zu beginnen, benötigt die App einige erforderliche Berechtigungen</string>
+    <string name="draw_over_other_apps">Über anderen Apps zeichnen</string>
+    <string name="notification_access">Benachrichtigungszugriff</string>
+    <string name="record_audio_from_apps">Audio von Apps aufnehmen</string>
+    <string name="enable_smart_edge">Smart Edge aktivieren</string>
+    <string name="enable_hardware_acceleration">Hardware-Beschleunigung aktivieren</string>
+    <string name="access_description">Aktivieren, um der App zu erlauben, über die Statusleiste zu zeichnen</string>
+    <string name="x_offset">X-Versatz</string>
+    <string name="y_offset">Y-Versatz</string>
+    <string name="height_of_overlay_when_shrinked">Höhe der Überlagerung, wenn sie verkleinert ist</string>
+    <string name="minimum_width_of_overlay_when_closed">Mindestbreite der Überlagerung, wenn sie geschlossen ist</string>
+    <string name="space_between_icons_when_overlay_is_shrinked">Abstand zwischen Symbolen, wenn die Überlagerung verkleinert ist</string>
+    <string name="reset">Zurücksetzen</string>
+    <string name="select_applications_to_allow">Anwendungen auswählen, die zugelassen werden sollen</string>
+    <string name="all">alle</string>
+    <string name="needed_to_show_notifications_and_media_sessions">Erforderlich, um Benachrichtigungen und Mediensitzungen anzuzeigen</string>
+    <string name="needed_to_show_song_visualizer_never_to_be_used_for_recording_mic_audio">Erforderlich, um den Song-Visualizer anzuzeigen. Wird niemals zum Aufnehmen von Mikrofon-Audio verwendet</string>
+    <string name="accessibility_service_description">Erforderlich, um spezifische Anwendungen für benutzerdefinierte Benachrichtigungstöne auszuwählen. Dieser Dienst sammelt oder überwacht Ihre persönlichen Daten nicht.</string>
+    <string name="select_color_to_apply_to_background">Farbe auswählen, die auf den Hintergrund angewendet werden soll</string>
+    <string name="color_hex">Farbe (hex)</string>
+    <string name="apply">Anwenden</string>
+</resources>

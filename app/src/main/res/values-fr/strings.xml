@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Sons Dynamiques</string>
+    <string name="cover">couverture</string>
+    <string name="pause_play">pause/lecture</string>
+    <string name="next">suivant</string>
+    <string name="back">retour</string>
+    <string name="welcome">Bienvenue</string>
+    <string name="to_get_started_the_app_needs_some_required_permissions">Pour commencer, l\'application a besoin de certaines permissions requises</string>
+    <string name="draw_over_other_apps">Dessiner sur d\'autres applications</string>
+    <string name="notification_access">Accès aux Notifications</string>
+    <string name="record_audio_from_apps">Enregistrer l\'audio des applications</string>
+    <string name="enable_smart_edge">Activer Smart Edge</string>
+    <string name="enable_hardware_acceleration">Activer l\'Accélération Matérielle</string>
+    <string name="access_description">Activer pour permettre à l\'application de dessiner sur la barre d\'état</string>
+    <string name="x_offset">Décalage X</string>
+    <string name="y_offset">Décalage Y</string>
+    <string name="height_of_overlay_when_shrinked">Hauteur de la superposition lorsqu\'elle est réduite</string>
+    <string name="minimum_width_of_overlay_when_closed">Largeur minimale de la superposition lorsqu\'elle est fermée</string>
+    <string name="space_between_icons_when_overlay_is_shrinked">Espace entre les icônes lorsque la superposition est réduite</string>
+    <string name="reset">Réinitialiser</string>
+    <string name="select_applications_to_allow">Sélectionner les applications à autoriser</string>
+    <string name="all">tout</string>
+    <string name="needed_to_show_notifications_and_media_sessions">Nécessaire pour afficher les notifications et les sessions média</string>
+    <string name="needed_to_show_song_visualizer_never_to_be_used_for_recording_mic_audio">Nécessaire pour afficher le visualiseur de chanson. Jamais utilisé pour enregistrer l\'audio du microphone</string>
+    <string name="accessibility_service_description">Requis pour sélectionner des applications spécifiques pour les sons de notification personnalisés. Ce service ne collecte ni ne surveille vos données personnelles.</string>
+    <string name="select_color_to_apply_to_background">Sélectionner la couleur à appliquer à l\'arrière-plan</string>
+    <string name="color_hex">Couleur (hex)</string>
+    <string name="apply">Appliquer</string>
+</resources>
