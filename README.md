@@ -81,7 +81,7 @@ If issues persist, try restarting your device after applying the recommended set
 
 **Shakibul Hasan**
 
-Created with AI with passion.
+Created with AI and passion.
 
 ## Technical Details
 
