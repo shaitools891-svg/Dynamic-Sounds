@@ -1,0 +1,37 @@
+Categories:
+  - Multimedia
+License: MIT
+SourceCode: https://github.com/shaitools891-svg/Dynamic-Sounds
+IssueTracker: https://github.com/shaitools891-svg/Dynamic-Sounds/issues
+Changelog: https://github.com/shaitools891-svg/Dynamic-Sounds/releases
+
+AutoName: Dynamic Sounds
+
+RepoType: git
+Repo: https://github.com/shaitools891-svg/Dynamic-Sounds
+
+Builds:
+  - versionName: 1.0
+    versionCode: 1
+    commit: master
+    subdir: app
+    gradle:
+      - yes
+
+AutoUpdateMode: Version
+UpdateCheckMode: Tags
+CurrentVersion: 1.0
+CurrentVersionCode: 1
+
+Description: |
+    An innovative Android application that enhances your notification experience by playing custom, time-based sounds for selected apps. Transform mundane notifications into delightful auditory experiences with nature-inspired sounds that change throughout the day.
+
+    Features:
+    - Time-Based Sound Themes (Morning, Afternoon, Evening, Night, Noon)
+    - App-Specific Customization
+    - Rich Sound Library with nature sounds
+    - Smart Settings and User-Friendly Interface
+
+MaintainerNotes: |
+    This app requires special permissions for notification access and accessibility service.
+    Ensure the build process includes all sound assets in the assets folder.
